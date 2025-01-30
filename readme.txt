@@ -9,9 +9,9 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The **QR Code** block helps you create custom QR codes directly on your WordPress website and quickly access links, promotions, or contact info.
-
 == Description ==
+
+The **QR Code** block helps you create custom QR codes directly on your WordPress website and quickly access links, promotions, or contact info.
 
 == Installation ==
 
