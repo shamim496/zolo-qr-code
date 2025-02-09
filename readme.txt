@@ -30,8 +30,6 @@ The **QR Code** block helps you create custom QR codes directly on your WordPres
 3. Select the QR Code zip file and proceed to install
 4. Activate QR Code.
 
-
-
 == Upgrade Notice ==
 
 There are no requirement for upgrade notice. Just click the update button and updated the plugin.
