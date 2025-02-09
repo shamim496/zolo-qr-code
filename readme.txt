@@ -72,6 +72,10 @@ No. With this plugin, you will actually replace all popular page builder plugins
 
 == Screenshots ==
 
+1. **Qrcode Interface** - The interactive qrcode that engages visitors.
+2. **Settings Page** - Configure your qrcode settings for better customization.
+3. **Responsive Design** - The plugin works seamlessly on both desktop and mobile devices
+
 == Changelog ==
 
   **= 1.0.0 - 25-12-2024 =**
