@@ -74,6 +74,15 @@ No. With this plugin, you will actually replace all popular page builder plugins
 
 == Changelog ==
 
-
   **= 1.0.0 - 25-12-2024 =**
   - **Initial Released
+
+== Contribute ==
+
+We welcome contributions to improve this plugin. You can find the source code and development instructions on [GitHub](https://github.com/shamim496/zolo-advanced-heading).
+
+To build the plugin:
+
+1. Clone the repository.
+2. Run `npm install` to install dependencies.
+3. Run `npm run build` to compile the plugin.
