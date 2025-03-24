@@ -67,15 +67,6 @@ export default function Edit(props) {
     [],
     props
   );
-  // preview image
-  if (preview) {
-    return (
-      <img
-        src={zoloParams.blocksPreview.qrcode}
-        alt={__("QR Code Preview", "zoloblocks")}
-      />
-    );
-  }
 
   const QRCodeWrapper = () => (
     <QRCode
