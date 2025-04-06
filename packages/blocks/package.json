@@ -6,13 +6,13 @@
     "name": "@zolo/blocks",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/bdthemes/zolo-qrcode.git"
+        "url": "git+https://github.com/bdthemes/zolo-qr-code.git"
     },
     "author": "",
     "license": "GPL-2.0-or-later",
     "bugs": {
-        "url": "https://github.com/bdthemes/zolo-qrcode/issues"
+        "url": "https://github.com/bdthemes/zolo-qr-code/issues"
     },
-    "homepage": "https://github.com/bdthemes/zolo-qrcode#readme",
+    "homepage": "https://github.com/bdthemes/zolo-qr-code#readme",
     "description": ""
 }

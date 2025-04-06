@@ -25,15 +25,15 @@ jobs:
             - name: Build
               run: npm run build
 
-            - name: Create zolo-qrcode directory and move files
+            - name: Create zolo-qr-code directory and move files
               run: |
-                  mkdir -p zolo-qrcode &&
-                  find . -maxdepth 1 -not -name 'zolo-qrcode' -exec mv {} zolo-qrcode \;
+                  mkdir -p zolo-qr-code &&
+                  find . -maxdepth 1 -not -name 'zolo-qr-code' -exec mv {} zolo-qr-code \;
 
             - name: Archive release
               uses: thedoctor0/zip-release@0.7.6
               with:
-                  filename: 'zolo-qrcode.zip'
+                  filename: 'zolo-qr-code.zip'
                   exclusions: '/*packages/* /*node_modules/* /*.distignore /*.gitignore /*.github/* /*.git/* /*.editorconfig /*README.md /*.babelrc.json /*package.json /*package-lock.json /*composer.json  /*composer.lock /*webpack.config.js /*.vscode/* /*.eslintignore /*.eslintrc.js'
             - name: Display release
               run: ls -a
@@ -41,7 +41,7 @@ jobs:
             - name: Create Release
               uses: ncipollo/release-action@v1.14.0
               with:
-                  artifacts: './zolo-qrcode.zip'
+                  artifacts: './zolo-qr-code.zip'
                   token: ${{ secrets.TOKEN }}
                   removeArtifacts: true
                   allowUpdates: true

@@ -10,7 +10,7 @@
  * Author URI:        https://bdthemes.com
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       zolo-qrcode
+ * Text Domain:       zolo-qr-code
  */
 
 if (!defined('ABSPATH')) exit; // Exit if accessed directly
@@ -92,8 +92,8 @@ class ZoloQrCode {
     }
 }
 
-function zolo_qrcode() {
+function zolo_qr_code() {
     return ZoloQrCode::instance();
 }
 
-add_action('plugins_loaded', 'zolo_qrcode');
+add_action('plugins_loaded', 'zolo_qr_code');

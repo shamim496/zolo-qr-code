@@ -4,8 +4,8 @@ export function registerInnerBlock(metadata: Partial<BlockConfiguration>) {
 	const defaultMetaData = {
 		$schema: 'https://schemas.wp.org/trunk/block.json',
 		apiVersion: 3,
-		category: "zolo-qrcode",
-		textdomain: "zolo-qrcode",
+		category: "zolo-qr-code",
+		textdomain: "zolo-qr-code",
 	};
 
 	return registerBlockType(

@@ -18,7 +18,7 @@ The **QR Code** block helps you create custom QR codes directly on your WordPres
 == Accessing the Source Code ==
 
 You can find the source code for this plugin on GitHub:
-[GitHub Repository Link] - https://github.com/shamim496/zolo-qrcode.git
+[GitHub Repository Link] - https://github.com/shamim496/zolo-qr-code.git
 
 == 🔑 Key Features ==
 
