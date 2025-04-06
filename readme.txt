@@ -1,4 +1,4 @@
-=== Zolo QR Code ===
+=== Zolo Qr Code ===
 Contributors: shamim496, selimmw, bdthemes
 Donate link: http://bdthemes.com/
 Tags: block-editor, gutenberg blocks, gutenberg plugin, QR Code

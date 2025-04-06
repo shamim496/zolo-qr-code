@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name:       Zolo QR Code
+ * Plugin Name:       Zolo Qr Code
  * Description:       A collection of responsive blocks for the WordPress block editor.
  * Requires at least: 6.0
  * Requires PHP:      7.4
