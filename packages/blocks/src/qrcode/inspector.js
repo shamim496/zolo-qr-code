@@ -51,8 +51,6 @@ import {
 
 import { BADGE_TYPOGRAPHY } from "./constants/typoPrefixConstant";
 
-import ExtraImage from "../../../library/src/images/singleblocks.png";
-
 export default function Inspector(props) {
   const { attributes, setAttributes, block } = props;
 
@@ -405,7 +403,7 @@ export default function Inspector(props) {
             <>
               <div className="zolo-side-premium-notice-wrap">
                 <img
-                  src={ExtraImage}
+                  src={zoloPlaceholder.extraImage}
                   alt="extra settings"
                   width="300"
                   height="700"

@@ -3,7 +3,7 @@ Contributors: bdthemes
 Donate link: http://bdthemes.com/
 Tags: block-editor, gutenberg blocks, gutenberg plugin, QR Code
 Requires at least: 6.1
-Tested up to: 6.7.1
+Tested up to: 6.7
 Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv2 or later
@@ -12,6 +12,23 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 The **QR Code** block helps you create custom QR codes directly on your WordPress website and quickly access links, promotions, or contact info.
 
 == Description ==
+
+**Zolo QR Code Block** is a lightweight Gutenberg block that allows you to create and display QR codes inside your posts and pages. Whether you want to display links, text, phone numbers, or emails as QR codes – this block can do it with ease.
+
+== Accessing the Source Code ==
+
+You can find the source code for this plugin on GitHub:
+[GitHub Repository Link] - https://github.com/shamim496/zolo-qrcode.git
+
+== 🔑 Key Features ==
+
+- 🧩 **Easy-to-use Gutenberg Block**
+- 🔄 **Dynamic QR Code Generator**
+- 🎨 **Customizable Colors and Sizes**
+- 📱 **Supports All QR Data Types (URL, Text, Email, Phone, etc.)**
+- 💻 **Responsive and Lightweight**
+- 💾 **No External Dependency – Works Offline**
+- 🚀 **Fast Rendering using SVG/Canvas**
 
 == Installation ==
 
@@ -78,8 +95,8 @@ No. With this plugin, you will actually replace all popular page builder plugins
 
 == Changelog ==
 
-  **= 1.0.0 - 25-12-2024 =**
-  - **Initial Released
+  **= 1.0.0 - 06-04-2025 =**
+  - Initial Released
 
 To build the plugin:
 
